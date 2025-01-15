@@ -39,11 +39,3 @@ func max(a, b int) int {
 	}
 	return b
 }
-func main() {
-	a := "abcd"
-	b := "bdef"
-	// ans := equalSubstring(a, b, 3)
-	fmt.Println(cost(a[0], b[0]))
-	fmt.Println(int('a' - 'b'))
-	// fmt.Println(ans)
-}
